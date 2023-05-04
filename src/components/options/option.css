@@ -1,0 +1,21 @@
+.option-main-div {
+    padding: 15px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    margin-right: 8px;
+    padding-right: 5px;
+    width: 80%;
+    color: #455A64;
+    cursor: pointer;
+}
+
+.option-content{
+    margin-top: 3px;
+    margin-left: 15px;
+}
+
+.option-main-div:hover{
+    background-color: #ECEFF1;
+}

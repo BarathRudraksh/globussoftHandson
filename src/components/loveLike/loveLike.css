@@ -1,0 +1,65 @@
+.lovelike-div{
+    display: flex;
+    align-items: center;
+    width:230px;
+    background-color: white;
+    margin-bottom: 15px;
+    padding:15px;
+    border-radius: 12px;
+    max-height: 30px;
+    font-size: 10px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.lovelike-content{
+    margin-left: 18px;
+}
+
+.count{
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.caret{
+    text-align: right;
+    width: 100%;
+}
+
+.round{
+    border-radius: 50%;
+    min-width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.Likes{
+    background-color: #2962FF;
+}
+
+.Love{
+    background-color: #FF3D00;
+}
+
+.Smiles{
+    background-color: #FFC400;
+}
+
+.fa-caret-up{
+    color: #00E676;
+}
+
+.fa-caret-right{
+    color: #BDBDBD;
+}
+
+.fa-caret-down{
+    color: #FF3D00;
+}
+
+.lovelike-div:hover{
+    transform: scale(1.08);
+}

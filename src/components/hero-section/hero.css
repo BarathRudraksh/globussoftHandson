@@ -1,0 +1,223 @@
+.topRightBell{
+    text-align: right;
+    height: max-content;
+}
+
+
+.heading{
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 0;
+}
+
+.subHeading{
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 5px;
+}
+
+.heroMain{
+    width: 880px;
+    padding: 20px;
+    padding-right: 30px;
+    border-right-color: black;
+}
+
+.heroDiv{
+    width: 80%;
+    padding:20px;
+    display: flex;
+}
+
+.hero1{
+    margin-right: 12px;
+}
+
+.hero2{
+    margin-right: 20px;
+}
+
+.hero3{
+    margin-right: 20px;
+}
+
+.msgDiv{
+    width: 270px;
+    margin-left: 20px;
+}
+
+.para{
+    font-weight: 100;
+    opacity: 70%;
+}
+
+.pimg{
+    width: 180px;
+    height: 140px;
+    margin-left: 30px;
+}
+
+.bluBox{
+    background-color: #2962FF;
+    width: 235px;
+    height: 150px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding: 21px;
+}
+
+.star{
+    width: 100%;
+    text-align: center;
+    font-size: 6px;
+    font-weight: 300;
+    color:white;
+}
+
+.bluBoxMsg{
+    width: 100%;
+    text-align: center;
+    color:white;
+    font-size: 9px;
+    margin-bottom: 20px;
+}
+
+.starImg{
+    width:30px;
+    height:30px;
+}
+
+.whiteDiv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.whiteBox{
+    display: flex;
+    margin:0px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    width: 90px;
+    height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    padding:5px;
+    align-content: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.viewProf{
+    margin:7px;
+}
+
+.views{
+    background-color: white;
+    max-height: 58vh;
+    border-radius: 15px;
+    padding: 6px;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.viu{
+    text-align: center;
+}
+
+.number{
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.graphimg{
+    width:250px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.viewDash{
+    background-color: #ECEFF1;
+    max-height:70px;
+    max-width:185px;
+    border-radius: 8px;
+    margin-left: 13px;
+    margin-bottom: 10px;
+    padding: 20px;
+    display: flex;
+    align-content: center;
+    cursor: pointer;
+}
+
+.dashIconRound{
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.dashImg{
+    max-width: 20px;
+    max-height: 20px;
+}
+
+.dashText{
+    margin:0px;
+    margin-top: 6px;
+    margin-left: 15px;
+    margin-right: 30px;
+}
+
+.chevron{
+    margin-top: 5px;
+}
+
+.target{
+    background-color: white;
+    height: 225px;
+    width: 250px;
+    border-radius: 15px;
+    padding: 6px;
+    font-size: 12px;
+    font-weight: normal;
+    padding: 16px;
+}
+
+.targetword{
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+.meeting{
+    width: 100%;
+}
+
+.meetingword{
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.plus{
+    background-color: white;
+    border-radius: 12px;
+    height: 25px;
+    padding: 15px;
+    width: 90%;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+
+
